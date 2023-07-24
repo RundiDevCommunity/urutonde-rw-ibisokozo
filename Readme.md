@@ -1,10 +1,9 @@
 ## Iyi ni repository yo gushiramwo ibisokozo
-## Forkinga iyi repository hama ucucrea branch yawe  
+## Cloninga iyi repository hama ucucrea branch yawe  
 ## Icukora ni kongera object yigisokozo muri variable yitwa list
 
 **Akarorero**
-
-/** 
+`
 var list = [
 {
 igisokozo:'Icutabonye', 
@@ -21,6 +20,6 @@ igisokozo:'Igisokozo ca 3',
 inyishu:'Inyishu ya 3',
  insiguro:"Insiguro ya 3"
 }
-] **/
+] `
 
 ## Uhejeje gukora ama changes ucugira push
