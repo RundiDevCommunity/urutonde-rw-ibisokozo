@@ -1,6 +1,6 @@
 ## Iyi ni repository yo gushiramwo ibisokozo
 ## Cloninga iyi repository hama ucucrea branch yawe  
-## Icukora ni kongera object yigisokozo muri variable yitwa list
+## Icukora ni kongera object yigisokozo muri variable yitwa list iri muri scr/script.js
 
 **Akarorero**
 `
