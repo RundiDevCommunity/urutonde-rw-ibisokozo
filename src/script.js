@@ -1,32 +1,65 @@
 var list = [
-{igisokozo:'Icutabonye', 
+{
+igisokozo:'Icutabonye', 
 inyishu:'Ubugeni bwaso na nyoko',
- insiguro:'Ibi babivuga kubera bidakunda kubona ubugeni bwabavyeyi'
+insiguro:'Ibi babivuga kubera bidakunda kubona ubugeni bwabavyeyi'
 },
-{igisokozo:'Abatama bakera baca imanza bunamye', 
+{
+igisokozo:'Abatama bakera baca imanza bunamye', 
 inyishu:'Imigondoro yibiharage',
- insiguro:"Ibi babivuga kubera imigondoro y'ibiharage umengo irunamye"
+insiguro:"Ibi babivuga kubera imigondoro y'ibiharage umengo irunamye"
 },
-{igisokozo:'Ndakibona nsigifata', 
+{
+igisokozo:'Ndakibona nsigifata', 
 inyishu:'Igitutu',
- insiguro:"Ibi babivuga kubera igitutu uguma ukibona ariko utari bugifate"
+insiguro:"Ibi babivuga kubera igitutu uguma ukibona ariko utari bugifate"
 },
-{igisokozo:'Karayengera', 
+{
+igisokozo:'Karayengera', 
 inyishu:'Akotsi k abungere',
- insiguro:"Ibi babivuga kubera abungere baragiye bacana igicaniro bigatuma ubona urikure akotsi kariko karayengera"
+insiguro:"Ibi babivuga kubera abungere baragiye bacana igicaniro bigatuma ubona urikure akotsi kariko karayengera"
 },
-{igisokozo:'Umwana wanje yokunesha ari muto', 
+{
+igisokozo:'Umwana wanje yokunesha ari muto', 
 inyishu:'Uruyuki',
- insiguro:"Ibi babivuga kubera uruyuki rushobora kukurya ukanakoma induru bititaye uko ungana kwose"
+insiguro:"Ibi babivuga kubera uruyuki rushobora kukurya ukanakoma induru bititaye uko ungana kwose"
 },
-{igisokozo:'Abana banje bakubita ibiganza hirya no hino', 
+{
+igisokozo:'Abana banje bakubita ibiganza hirya no hino', 
 inyishu:'Imitwe y Inzuzi',
- insiguro:"Ibi babivuga kubera inzuzi zirandaranda impande zose"
+insiguro:"Ibi babivuga kubera inzuzi zirandaranda impande zose"
 },
-{igisokozo:'Ane meza', 
+{
+igisokozo:'Ane meza', 
 inyishu:'Amabere y Inka',
- insiguro:"Ibi babivuga kubera amabere y Inka akamwa amata kndi amata nikirumara mubuzima bw Abarundi"
+insiguro:"Ibi babivuga kubera amabere y Inka akamwa amata kndi amata nikirumara mubuzima bw Abarundi"
 },
+{
+igisokozo:'Kira se katamobwa', 
+inyishu:'Agahanga kimbwa',
+insiguro:"Ibi babivuga kubera imbwa itigera imobwa"
+},
+{
+igisokozo:'Uhhhmmm', 
+inyishu:'Igikamiwe make',
+insiguro:"...."
+},
+{
+igisokozo:'Aha twese turaririye umwe', 
+inyishu:'Inkono kuziko',
+insiguro:"Ibi babivuga kubera ahohambere iyo batetse wasanga abo mumuryango bose bicaye barindiriye ko bisha"
+},
+{
+igisokozo:'Aha twese turaririye umwe', 
+inyishu:'Inkono kuziko',
+insiguro:"Ibi babivuga kubera ahohambere iyo batetse wasanga abo mumuryango bose bicaye barindiriye ko bisha"
+},
+{
+igisokozo:'Kararungera', 
+inyishu:'Akotsi kabungere',
+insiguro:"Ibi babivuga kubera ahohambere iyo angungere baragiye baracana rero akotsi kagaca kaduga hejuru gose kubera bari bari kumusozi"
+},
+
 ]
 
 var table = document.querySelector('table');
