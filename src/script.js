@@ -30,7 +30,7 @@ inyishu:'Amabere y Inka',
 ]
 
 var table = document.querySelector('table');
-var tr
+
 
 
 for (var i = 0; i < list.length; i++) {
