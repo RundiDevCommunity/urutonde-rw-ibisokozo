@@ -32,7 +32,41 @@ insiguro:"Ibi babivuga kubera inzuzi zirandaranda impande zose"
 {
 igisokozo:'Ane meza', 
 inyishu:'Amabere y Inka',
-insiguro:"Ibi babivuga kubera amabere y Inka akamwa amata kndi amata nikirumara mubuzima bw Abarundi"
+insiguro:"Ibi babivuga kubera amabere y Inka akamwa amata kndi amata nikirumara mubuzima bw Abarundi",
+ igisokozo:'Icutabonye', 
+ inyishu:'Ubugeni bwaso na nyoko',
+ insiguro:'Ibi babivuga kubera bidakunda kubona ubugeni bwabavyeyi'
+},
+{
+ igisokozo:'Abatama bakera baca imanza bunamye', 
+ inyishu:'Imigondoro yibiharage',
+ insiguro:"Ibi babivuga kubera imigondoro y'ibiharage umengo irunamye"
+},
+{
+ igisokozo:'Ndakibona nsigifata', 
+ inyishu:'Igitutu',
+ insiguro:"Ibi babivuga kubera igitutu uguma ukibona ariko utari bugifate"
+},
+{
+ igisokozo:'Karayengera', 
+ inyishu:'Akotsi k abungere',
+ insiguro:"Ibi babivuga kubera abungere baragiye bacana igicaniro bigatuma ubona urikure akotsi kariko karayengera"
+},
+{
+ igisokozo:'Umwana wanje yokunesha ari muto', 
+ inyishu:'Uruyuki',
+ insiguro:"Ibi babivuga kubera uruyuki rushobora kukurya ukanakoma induru bititaye uko ungana kwose"
+},
+
+ {
+  igisokozo:'Abana banje bakubita ibiganza hirya no hino', 
+ inyishu:'Imitwe y Inzuzi',
+ insiguro:"Ibi babivuga kubera inzuzi zirandaranda impande zose"
+},
+{
+ igisokozo:'Ane meza', 
+ inyishu:'Amabere y Inka',
+ insiguro:"Ibi babivuga kubera amabere y Inka akamwa amata kndi amata nikirumara mubuzima bw Abarundi"
 },
 {
 igisokozo:'Kira se katamobwa', 
@@ -63,7 +97,7 @@ insiguro:"Ibi babivuga kubera ahohambere iyo angungere baragiye baracana rero ak
 ]
 
 var table = document.querySelector('table');
-var tr
+
 
 
 for (var i = 0; i < list.length; i++) {
