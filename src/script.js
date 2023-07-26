@@ -33,6 +33,8 @@ insiguro:"Ibi babivuga kubera inzuzi zirandaranda impande zose"
 igisokozo:'Ane meza', 
 inyishu:'Amabere y Inka',
 insiguro:"Ibi babivuga kubera amabere y Inka akamwa amata kndi amata nikirumara mubuzima bw Abarundi",
+},
+{
  igisokozo:'Icutabonye', 
  inyishu:'Ubugeni bwaso na nyoko',
  insiguro:'Ibi babivuga kubera bidakunda kubona ubugeni bwabavyeyi'
@@ -123,6 +125,68 @@ igisokozo:'Urabona ngo bitugu vya sogokuru ansimbira urugo!',
 inyishu:'Ikivumvuri',
 insiguro:"Ibi babivuga kubera ikivumvuri gifise ibitugu bisumba izosi"
 },
+{
+igisokozo:"Abagore ba kera baheka abana neza nayo ab'ubu ntumbarire.", 
+inyishu:'Ibigori bisimbije',
+insiguro:"..."
+},
+{
+igisokozo:"Abakobwa bansanze ku mugina nti enda bakobwa nkirigita.", 
+inyishu:'Inkumi yinkezi',
+insiguro:"..."
+},
+{
+igisokozo:"Abakuru baraho baca imanza bunamwe.", 
+inyishu:"Impfizi z'intama zirwana.",
+insiguro:"..."
+},
+{
+igisokozo:"Abambara ba Ruhinda bambariye impeko mu kuzimu.", 
+inyishu:"Ibiyoba",
+insiguro:"..."
+},
+{
+igisokozo:"Abanyabuhura ntibubaka barahonjagira.", 
+inyishu:"Umuyirwe w'ibigori.",
+insiguro:"..."
+},
+{
+igisokozo:"Abanyakigwa ntibubaka barahonjagira.", 
+inyishu:"amarenga.",
+insiguro:"..."
+},
+{
+igisokozo:"Abanyakirirmiro ntibubaka barahonjagira.", 
+inyishu:"Amajigo.",
+insiguro:"..."
+},
+{
+igisokozo:"Abazungu ba bujumbura bambaye ibirato bose.", 
+inyishu:"Amavunja.",
+insiguro:"..."
+},
+{
+igisokozo:"Agacumu kanje runyura bisaka.", 
+inyishu:"Umuravyo.",
+insiguro:"Ibi babivuga kubera umuravyo ari ikintu kinyaruka gose"
+},
+{
+igisokozo:"Tora akato ntore akandi tuje kurondera ico tutari bubone.", 
+inyishu:"Amaganga y'inkoko.",
+insiguro:"Ibi babivuga kubera inkoko atamaganga igira, rero baba bashatse kuvuga ikintu kidakunda"
+},
+{
+igisokozo:"Bugingo bwa none bwogutana.", 
+inyishu:"Wotekera amazi murukangaga ?",
+insiguro:"..."
+},
+{
+igisokozo:"Bugingo bwa none bwogutana.", 
+inyishu:"Wotekera amazi murukangaga ?",
+insiguro:"..."
+},
+
+
 
 
 ]
