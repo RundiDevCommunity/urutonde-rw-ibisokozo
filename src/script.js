@@ -111,7 +111,7 @@ inyishu:'Ibijumbu',
 insiguro:"Ibi babivuga kubera ibijumbu vyamira munsi yivu"
 },
 {
-igisokozo:'Akavumu kanje mpungurura bunyoni..', 
+igisokozo:'Akavumu kanje mpungurura bunyoni.', 
 inyishu:'Inkono yumurango niryumwe',
 insiguro:"Ibi babivuga kubera aho hambere iyo bahishije abantu bose bomumuryango baca bakorana kugira bafungure, rero bavuga ko ari mpungurura kubera bose baca bahagarika ivyo bariko barakora hama bakaza gufungura"
 },
