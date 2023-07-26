@@ -93,6 +93,37 @@ igisokozo:'Kararungera',
 inyishu:'Akotsi kabungere',
 insiguro:"Ibi babivuga kubera ahohambere iyo angungere baragiye baracana rero akotsi kagaca kaduga hejuru gose kubera bari bari kumusozi"
 },
+{
+igisokozo:'Aho hepfo haciye ingoma itavuga.', 
+inyishu:'Umugore afise inda',
+insiguro:"Ibi babivuga kubera umugore yibungenze abafise inda nini ingana ningoma, rero baca babigereranya ningoma ariko idashobora kuvuga nkizindi"
+},
+{
+igisokozo:'Wigera mu Barembe wari Umurembe!', 
+inyishu:'Impene muntama',
+insiguro:"Ibi babivuga bashatse kuvuga umuntu canke ikintu kiri mubundi bitandukanye, cisa arikimwe"
+},
+{
+igisokozo:'Abo kwa Ruringaniza bambariye imiringa mu kuzimu.', 
+inyishu:'Ibijumbu',
+insiguro:"Ibi babivuga kubera ibijumbu vyamira munsi yivu"
+},
+{
+igisokozo:'Akavumu kanje mpungurura bunyoni..', 
+inyishu:'Inkono yumurango niryumwe',
+insiguro:"Ibi babivuga kubera aho hambere iyo bahishije abantu bose bomumuryango baca bakorana kugira bafungure, rero bavuga ko ari mpungurura kubera bose baca bahagarika ivyo bariko barakora hama bakaza gufungura"
+},
+{
+igisokozo:'Karahinda iduri.', 
+inyishu:'Akato mumpange',
+insiguro:"..."
+},
+{
+igisokozo:'Urabona ngo bitugu vya sogokuru ansimbira urugo!', 
+inyishu:'Ikivumvuri',
+insiguro:"Ibi babivuga kubera ikivumvuri gifise ibitugu bisumba izosi"
+},
+
 
 ]
 
