@@ -75,11 +75,6 @@ inyishu:'Inkono kuziko',
 insiguro:"Ibi babivuga kubera ahohambere iyo batetse wasanga abo mumuryango bose bicaye barindiriye ko bisha"
 },
 {
-igisokozo:'Aha twese turaririye umwe', 
-inyishu:'Inkono kuziko',
-insiguro:"Ibi babivuga kubera ahohambere iyo batetse wasanga abo mumuryango bose bicaye barindiriye ko bisha"
-},
-{
 igisokozo:'Kararungera', 
 inyishu:'Akotsi kabungere',
 insiguro:"Ibi babivuga kubera ahohambere iyo angungere baragiye baracana rero akotsi kagaca kaduga hejuru gose kubera bari bari kumusozi"
@@ -487,11 +482,6 @@ insiguro:''
 {
 igisokozo:'Mvuye guta nyokuru agaruka ankurikira', 
 inyishu:'Umwavu',
-insiguro:''
-},
-{
-igisokozo:'Kararengera', 
-inyishu:'Akotsi k’abungere',
 insiguro:''
 },
 {
