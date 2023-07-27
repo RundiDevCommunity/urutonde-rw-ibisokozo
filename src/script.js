@@ -195,6 +195,17 @@ igisokozo:"Nkubise inyuma y’urugo nza ndatwenga.",
 inyishu:"Ikigori mu minwe",
 insiguro:"Ibi babivuga kubera baba bashatse kuvuga kwiyo umuntu aje azanye ikigori aza aryohewe"
 },
+{
+igisokozo:"Ubugabo buva hasi nokuriza ndi muto.", 
+inyishu:"Isusa",
+insiguro:"Ibi babivuga kubera agasusa gashobora kukubaba kakakubabaza cane kandi ubona ari gato"
+},
+{
+igisokozo:"Urusenge rwanje rwuzuye inzahabu naho woraramwo ntiwoziharura.", 
+inyishu:"Inyenyeri kwijuru",
+insiguro:"Ibi babivuga kubera kugicu hari inyenyeri nyishi kuburyo utoshobora no kuziharura.",
+},
+
 
 
 
