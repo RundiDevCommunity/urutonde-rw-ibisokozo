@@ -245,11 +245,6 @@ inyishu:'Itiro',
 insiguro:''
 },
 {
-igisokozo:'Nkubise inyuma y’urugo nza ndatwenga', 
-inyishu:'Ikigori mu minwe',
-insiguro:''
-},
-{
 igisokozo:'Karahara mu ruganda ntibacura', 
 inyishu:'Inyundo',
 insiguro:''
