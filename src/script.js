@@ -160,11 +160,6 @@ inyishu:"Amaganga y'inkoko.",
 insiguro:"Ibi babivuga kubera inkoko atamaganga igira, rero baba bashatse kuvuga ikintu kidakunda"
 },
 {
-igisokozo:"Bugingo bwa none bwogutana.", 
-inyishu:"Wotekera amazi murukangaga ?",
-insiguro:"..."
-},
-{
 igisokozo:"Aho Jabwe na Soro barwaniye nubu ni inkumbagare.", 
 inyishu:"Ubuhanza",
 insiguro:"Ibi babivuga kubera umuntu afise ubuhanza umushatsi usanga waravungutse"
