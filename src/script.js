@@ -185,6 +185,23 @@ igisokozo:"Bugingo bwa none bwogutana.",
 inyishu:"Wotekera amazi murukangaga ?",
 insiguro:"..."
 },
+{
+igisokozo:"Aho Jabwe na Soro barwaniye nubu ni inkumbagare.", 
+inyishu:"Ubuhanza?",
+insiguro:"Ibi babivuga kubera umuntu afise ubuhanza umushatsi usanga waravungutse"
+},
+{
+igisokozo:"Nkubise inyuma y’urugo nza ndatwenga.", 
+inyishu:"Ikigori mu minwe",
+insiguro:"Ibi babivuga kubera baba bashatse kuvuga kwiyo umuntu aje azanye ikigori aza aryohewe"
+},
+
+
+
+
+
+
+
 
 
 
