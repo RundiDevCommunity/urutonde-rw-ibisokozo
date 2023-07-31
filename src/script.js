@@ -504,6 +504,68 @@ igisokozo:'Umututsi muremure yavuye imagamba',
 inyishu:'Imvura',
 insiguro:'...'
 },
+{
+igisokozo:'Ahohepfo haciye ivyiza bisa', 
+inyishu:'Umuzungo kwipikipiki',
+insiguro:'...'
+},
+{
+igisokozo:'Ahohiyo ngo to to to', 
+inyishu:'Imvura kumabati',
+insiguro:'Ibi babivuga kubera imvura iriko iragwa kumabati iguma ivuga ngo to to to'
+},
+{
+igisokozo:'Fata inkoni mfate iyindi tuje kugarura umugamba iramburutse', 
+inyishu:'Ikinyugunyugu',
+insiguro:'...'
+},
+{
+igisokozo:'Akayobera kayobeye umwami nabagabo', 
+inyishu:"Inka y'umufyiri ikamwa ayera",
+insiguro:'...'
+},
+{
+igisokozo:'Nkurira rudagaza kwirembo', 
+inyishu:"Igikona",
+insiguro:'...'
+},
+{
+igisokozo:'Karanutaraye binati', 
+inyishu:"Igikona kwibuye",
+insiguro:'...'
+},
+{
+igisokozo:'Nkurira fyiroko mwitongo', 
+inyishu:"Impene muntama",
+insiguro:'...'
+},
+{
+igisokozo:'Gima gima muka barihuta', 
+inyishu:"Inuma kukivumu",
+insiguro:'...'
+},
+{
+igisokozo:'komera amashi bizungagi', 
+inyishu:"Igitsembetsembe c'intama",
+insiguro:'...'
+},
+{
+igisokozo:'inaga ya buruhukiro ntivuga irimonogoza', 
+inyishu:"Inkona kwijuru",
+insiguro:'...'
+},
+{
+igisokozo:'Karabigendura katabirimye', 
+inyishu:"Igikere",
+insiguro:'...'
+},
+{
+igisokozo:'Demwa Demwa mushiki wa rubano', 
+inyishu:"Ikinyobwa",
+insiguro:'...'
+},
+
+
 
 
 ]
