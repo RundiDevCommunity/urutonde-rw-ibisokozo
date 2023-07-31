@@ -499,6 +499,12 @@ igisokozo:'Ngenda mfoye ariko sindekura',
 inyishu:'Amabere y’inkumi ataragwa',
 insiguro:''
 },
+{
+igisokozo:'Umututsi muremure yavuye imagamba', 
+inyishu:'Imvura',
+insiguro:'...'
+},
+
 
 ]
 
